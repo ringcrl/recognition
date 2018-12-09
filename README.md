@@ -14,4 +14,4 @@ npm install @chenng/recognition
 
 # 制作教程
 
-[Node命令行工具制作]()
+[Node命令行工具制作](https://www.chenng.cn/post/Node-command-line-tool-production.html)
