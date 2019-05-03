@@ -1,5 +1,5 @@
 const Tesseract = require('tesseract.js');
-const images = require('images');
+const images = require('@chenng/images');
 const requset = require('request');
 const fs = require('fs');
 const { promisify } = require('util');

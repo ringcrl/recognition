@@ -5,6 +5,9 @@
   "bin": {
     "reg": "./cli.js"
   },
+  "scripts": {
+    "test": "node ./cli.js --url=https://qiniu.chenng.cn/2018-12-09-15-21-29.png"
+  },
   "keywords": [
     "Captcha",
     "Node",
@@ -14,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
-    "images": "^3.0.1",
+    "@chenng/images": "^3.1.0",
     "socks5-http-client": "^1.0.4",
     "tesseract.js": "^1.0.14",
     "yargs": "^12.0.5"
